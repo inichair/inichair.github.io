@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Stephen Theunissen"
-  avatar           : "C:/Users/Stephen Theunissen/Pictures/inichair.jpg"
+  avatar           : #"C:/Users/Stephen Theunissen/Pictures/inichair.jpg"
   bio              : "Data Science Portfolio"
   location         : "Eindhoven, Netherlands"
   email            : "inichair@gmail.com"
@@ -116,7 +116,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       #url: "inichair@gmail.com"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/stephentheunissen/"
     - label: "GitHub"
       icon: "fab fa-fw fa-twitter-square"
