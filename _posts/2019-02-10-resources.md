@@ -5,7 +5,7 @@ excerpt: "List of resources that seem useful to me"
 tags: [python]
 ---
 Here I will keep a list of all youtube videos, online courses, books, and websites
-that have been helpful to me in my Data Science Journey. When I some spare time
+that have been helpful to me in my Data Science Journey. When I have some spare time
 I will try to summarize my learnings of each resource in a seperate blog.
 
 ## Resources I have finished:
@@ -28,7 +28,7 @@ If you're starting your data science journey, definitely start with this one.
 Thanks **freeCodeCamp.org**, you're the best.
 
 ## Resources I have yet to start with:
-* <span style="color:orange">**Extensive scitkit tutorial**</span> ([youtube video](https://www.youtube.com/watch?v=L7R4HUQ-eQ0)):
+* <span style="color:orange">**Extensive scikit tutorial**</span> ([youtube video](https://www.youtube.com/watch?v=L7R4HUQ-eQ0)):
 This is a recording of a **scikit tutorial** by Jake Vanderplas.
 * <span style="color:orange">**Introduction to Python for Data Science**</span> ([edx](https://www.edx.org/course/introduction-python-data-science-3)):
 Suggested by **Siraj Raval**, this courses teaches the basics of numpy/matplotlib/pandas,
