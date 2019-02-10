@@ -116,7 +116,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       #url: "inichair@gmail.com"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin-in"
+      icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/stephentheunissen/"
     - label: "GitHub"
       icon: "fab fa-fw fa-twitter-square"
