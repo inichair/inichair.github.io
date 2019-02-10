@@ -9,14 +9,8 @@ that have been helpful to me in my Data Science Journey. When I some spare time
 I will try to summarize my learnings of each resource in a seperate blog.
 
 ## Resources I have finished:
-
-* _How to set up my own blog_
-
-[youtube video](https://www.youtube.com/watch?v=qWrcgHwSG8M&t=72s):
-
-
-This is the youtube video I followed to set up my own blog, shout out
-to **DataOptimal** for making a clear introduction on this.
+* <span style="color:red">some **How to set up my own blog** text</span> ([youtube video](https://www.youtube.com/watch?v=qWrcgHwSG8M&t=72s)): This is the youtube video I followed to set up my own blog, shout out to **DataOptimal** for 
+making a clear introduction on this.
 * Extensive pandas tutorial: [youtube video](https://www.youtube.com/watch?v=5JnMutdy6Fw)
 This is a recording of the **best pandas tutorial** by Brandon Rhodes. On my github page
 there is a repository with all the data used in the video. I suggest you watch the video,
