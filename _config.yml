@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Stephen Theunissen"
-  avatar           : "/blog/images/bio.jpg"
+  avatar           : "/images/bio.jpg"
   bio              : "Data Science Portfolio"
   location         : "Eindhoven, Netherlands"
   email            : "inichair@gmail.com"

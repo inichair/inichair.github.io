@@ -3,7 +3,7 @@ layout: archive
 title: "About"
 permalink: /about/
 header:
-  image: "/blog/images/header2.jpg"
+  image: "/images/header2.jpg"
 author_profile: true
 ---
 
