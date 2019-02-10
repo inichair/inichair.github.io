@@ -9,7 +9,7 @@ that have been helpful to me in my Data Science Journey. When I some spare time
 I will try to summarize my learnings of each resource in a seperate blog.
 
 ## Resources I have finished:
-* <span style="color:red">**How to set up my own blog**</span> ([youtube video](https://www.youtube.com/watch?v=qWrcgHwSG8M&t=72s)):
+* <span style="color:green">**How to set up my own blog**</span> ([youtube video](https://www.youtube.com/watch?v=qWrcgHwSG8M&t=72s)):
 This is the youtube video I followed to set up my own blog, shout out to **DataOptimal** for
 making a clear introduction on this.
 * <span style="color:green">**Extensive pandas tutorial**</span> ([youtube video](https://www.youtube.com/watch?v=5JnMutdy6Fw)):
@@ -17,13 +17,13 @@ This is a recording of the **best pandas tutorial** by Brandon Rhodes. On my git
 there is a repository with all the data used in the video. I suggest you watch the video,
 make the exercises, and continue on to the next section. Later I will create a short blog
 to summarize what I've learnt from the video on a different dataset.
-* <span style="color:yellow">**Machine learning online course**</span> ([coursera](https://www.coursera.org/learn/machine-learning)):
+* <span style="color:green">**Machine learning online course**</span> ([coursera](https://www.coursera.org/learn/machine-learning)):
 This online course provides a broad introduction to machine learning, datamining, and
 statistical pattern recognition. Andrew Ng is an excellent instructor who teaches the
 fundaments of machine learning algorithms with Octave. Although I was hesitant at first
 using Octave, it was relatively easy to learn. Arguably the **best online course on machine learning**.
-* <span style="color:orange">**Learn Python - Full Course for Beginners**</span> ([youtube video](https://www.youtube.com/watch?v=rfscVS0vtbw)):
-"This course will give you a full introduction into all of the core concepts in python. Follow along with the videos and you'll be a python programmer in no time!" Honestly, **very** clear explanation of Python concepts.
+* <span style="color:green">**Learn Python - Full Course for Beginners**</span> ([youtube video](https://www.youtube.com/watch?v=rfscVS0vtbw)):
+"This course will give you a full introduction on all of the core concepts in python. Follow along with the videos and you'll be a python programmer in no time!" Honestly, **very** clear explanation of Python concepts.
 If you're starting your data science journey, definitely start with this one.
 Thanks **freeCodeCamp.org**, you're the best.
 
