@@ -2,9 +2,10 @@
 layout: archive
 permalink: /tutorials/
 title: "Machine Learning Tutorials by Tags"
+header:
+  image: "/images/header.jpg"
 author_profile: true
 ---
-
 
 {% include group-by-array collection=site.posts field="tags" %}
 
