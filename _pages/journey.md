@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /tutorials/
-title: "Machine Learning Tutorials by Tags"
+permalink: /journey/
+title: "Machine Learning Journey"
 header:
   image: "/images/header.jpg"
 author_profile: true
