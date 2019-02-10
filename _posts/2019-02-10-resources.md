@@ -10,7 +10,7 @@ I will try to summarize my learnings of each resource in a seperate blog.
 
 ## Resources I have finished:
 
-* How to set up my own blog: [youtube video](https://www.youtube.com/watch?v=qWrcgHwSG8M&t=72s)
+* <ins>How to set up my own blog</ins> [youtube video](https://www.youtube.com/watch?v=qWrcgHwSG8M&t=72s) :
 This is the youtube video I followed to set up my own blog, shout out
 to **DataOptimal** for making a clear introduction on this.
 * Extensive pandas tutorial: [youtube video](https://www.youtube.com/watch?v=5JnMutdy6Fw)
