@@ -2,7 +2,8 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/header.jpg"
+  image: "/images/header2.jpg"
+author_profile: true
 ---
 
 I'm a junior data scientist with a Masters Degree in Operations Research.
