@@ -3,7 +3,7 @@ layout: archive
 permalink: /journey/
 title: "Machine Learning Journey"
 header:
-  image: "/images/header.jpg"
+  image: "/blog/images/header.jpg"
 author_profile: true
 ---
 
